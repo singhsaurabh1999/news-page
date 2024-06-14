@@ -1,2 +1,2 @@
 # news-page
-The News Times
+The News Times newspaper front page
